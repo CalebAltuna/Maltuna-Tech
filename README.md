@@ -15,6 +15,9 @@ Webgune honen bidez **hiru erabiltzaile profil nagusi** bereizten dira:
 | **Kursaal.eus**                  | Estilo modernoa eta minimalista.                                           | Sarrerak erosteko bertan erosi, beste lehio batera eraman gabe.                  |
 | **Bergara.eus**                  | Koloreak ondo daude. Webgune txukuna da.                                   | Oso kargatuta.                                                                  |
 
+## Bozetoa
+<img width="1920" height="1080" alt="bozeto maltuna tech" src="https://github.com/user-attachments/assets/a2e4f3d8-55f3-48f7-a06b-1857a8576821" />
+
 ## Estilo gida:
 ### Koloreak
 Kolore nagusia **urdina** izango da, Bergarako udalaren webgunearen kolore nagusia delako.  
@@ -42,5 +45,4 @@ Izenburuetarako eta testu arrunterako **Open Sans** erabiliko da, irakurtzeko er
 - **Testuaren kolorea:** zuria  
 - **Atzeko kolorea:** `background-color: #0c244e;`
 
-## Bozetoa
-<img width="1920" height="1080" alt="bozeto maltuna tech" src="https://github.com/user-attachments/assets/a2e4f3d8-55f3-48f7-a06b-1857a8576821" />
+
