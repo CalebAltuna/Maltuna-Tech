@@ -1,4 +1,16 @@
 # Maltuna-Tech
+
+## Aurkibidea
+- [Sarrera](#sarrera)
+- [Beste webguneen analisia](#beste-webguneen-analisia)
+- [Bozetoa](#bozetoa)
+- [Estilo gida](#estilo-gida)
+  - [Koloreak](#koloreak)
+  - [Tipografia](#tipografia)
+  - [Irudiak](#irudiak)
+  - [Ikonoen estiloa](#ikonoen-estiloa)
+  - [Botoien estiloa](#botoien-estiloa)
+
 ## Sarrera
 
 Webgune honen bidez **hiru erabiltzaile profil nagusi** bereizten dira:
