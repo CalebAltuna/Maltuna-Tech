@@ -22,21 +22,21 @@ Kolore urdinak **seriotasuna eta fidagarritasuna** adierazten ditu.
 - **Botoien kolorea:** `background-color: #0c244e;`
 - **Header/Footer kolorea:** `background-color: #1E316F;`
 - **Kolore osagarriak:** kolore ilunak eta argiak erabiliko dira urdina konplementatzeko, batez ere **beltza** eta **zuria**.
----
+
 ### Tipografia
 Izenburuetarako eta testu arrunterako **Open Sans** erabiliko da, irakurtzeko erraza delako.  
 - **Letra-motak:** `Open Sans`, `Sans Serif`, `Arial`
----
+
 ### Irudiak
 - Kalitate oneko irudiak erabiliko dira.  
 - Irudi guztiak Bergarako Antzokiaren jabetzakoak izango dira, edo **Creative Commons** lizentzia egokidun irudiak.  
 - Kontuan izateko: Bergarako webguneak hainbat argazki ditu (alboetan eta karusel moduan), eta esan daiteke **nahiko kargatuta** dagoela.
----
+
 ### Ikonoen estiloa
 - **Ikono estiloa:** minimalistak  
 - **Koloreak:** urdina, zuria edo beltza — atzeko kolorearen arabera  
 - **Atzeko kolorea (adibidea):** `background-color: #0c244e;`
----
+
 ### Botoien estiloa
 - **Kolore nagusia:** urdina  
 - **Testuaren kolorea:** zuria  
