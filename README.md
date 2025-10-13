@@ -63,11 +63,19 @@ Izenburuetarako eta testu arrunterako **Open Sans** erabiliko da, irakurtzeko er
 ### Ikonoen estiloa
 - **Ikono estiloa:** minimalistak  
 - **Koloreak:** urdina, zuria edo beltza — atzeko kolorearen arabera  
-- **Atzeko kolorea (adibidea):** `background-color: #0c244e;`
+- **Adibidea:** Adibide bezala, hauek izango lirateke erabiliko diren ikonoen itxurak:
+
+<img width="480" height="375" alt="image" src="https://github.com/user-attachments/assets/f3b2c4c2-2c6c-4cdc-931f-fe351e4cf605" />
+
 
 ### Botoien estiloa
 - **Kolore nagusia:** urdina  
 - **Testuaren kolorea:** zuria  
 - **Atzeko kolorea:** `background-color: #0c244e;`
+- **Adibidea:**
+  
+  <img width="272" height="112" alt="image" src="https://github.com/user-attachments/assets/25cab45d-28ad-4280-a6bc-b1e570f8254e" />
+
+
 
 
