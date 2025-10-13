@@ -35,12 +35,25 @@ Webgune honen bidez **hiru erabiltzaile profil nagusi** bereizten dira:
 Kolore nagusia **urdina** izango da, Bergarako udalaren webgunearen kolore nagusia delako.  
 Kolore urdinak **seriotasuna eta fidagarritasuna** adierazten ditu.
 - **Botoien kolorea:** `background-color: #0c244e;`
+
+  <img width="500" height="100" alt="image" src="https://github.com/user-attachments/assets/23ff0774-24c5-4b3e-b6d4-e3da5226377b" />
+
 - **Header/Footer kolorea:** `background-color: #1E316F;`
+
+  <img width="500" height="100" alt="image" src="https://github.com/user-attachments/assets/3bec110c-499a-4702-8240-4596c654ba1b" />
+
+  
 - **Kolore osagarriak:** kolore ilunak eta argiak erabiliko dira urdina konplementatzeko, batez ere **beltza** eta **zuria**.
+
+  <img width="321" height="540" alt="image" src="https://github.com/user-attachments/assets/84f18ac0-3822-4815-a002-e8a2ac90461d" />
+
+
 
 ### Tipografia
 Izenburuetarako eta testu arrunterako **Open Sans** erabiliko da, irakurtzeko erraza delako.  
-- **Letra-motak:** `Open Sans`, `Sans Serif`, `Arial`
+- **Adibidea:**
+
+  <img width="562" height="92" alt="image" src="https://github.com/user-attachments/assets/3dc10410-d275-42b9-9f07-adb49b1da1f6" />
 
 ### Irudiak
 - Kalitate oneko irudiak erabiliko dira.  
