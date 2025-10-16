@@ -28,7 +28,18 @@ Webgune honen bidez **hiru erabiltzaile profil nagusi** bereizten dira:
 | **Bergara.eus**                  | Koloreak ondo daude. Webgune txukuna da.                                   | Oso kargatuta.                                                                  |
 
 ## Bozetoa
+
+### Main webPage
 <img width="1920" height="1080" alt="bozeto maltuna tech" src="https://github.com/user-attachments/assets/a2e4f3d8-55f3-48f7-a06b-1857a8576821" />
+### CRUD
+<img width="1920" height="1080" alt="crud maltuna tech" src="https://github.com/user-attachments/assets/a187d022-b012-4d6b-bfba-6d436f0e769c" />
+### login
+<img width="1920" height="1080" alt="Copia de maltuna tech form2" src="https://github.com/user-attachments/assets/391094df-a67e-49cd-bcb8-fa1734c3c828" />
+###   paying form
+<img width="1920" height="1080" alt="_maltuna tech form1" src="https://github.com/user-attachments/assets/bff6870f-e1b3-4d4b-b7de-45b75626e54f" />
+
+
+
 
 ## Estilo gida:
 ### Koloreak
@@ -75,6 +86,7 @@ Izenburuetarako eta testu arrunterako **Open Sans** erabiliko da, irakurtzeko er
 - **Adibidea:**
   
   <img width="272" height="112" alt="image" src="https://github.com/user-attachments/assets/25cab45d-28ad-4280-a6bc-b1e570f8254e" />
+
 
 
 
