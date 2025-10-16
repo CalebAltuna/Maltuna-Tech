@@ -4,20 +4,22 @@
 - [Sarrera](#sarrera)
 - [Beste webguneen analisia](#beste-webguneen-analisia)
 - [Bozetoa](#bozetoa)
+- [Nabigazio-mapa](#nabigazio-mapa)
 - [Estilo gida](#estilo-gida)
   - [Koloreak](#koloreak)
   - [Tipografia](#tipografia)
   - [Irudiak](#irudiak)
   - [Ikonoen estiloa](#ikonoen-estiloa)
   - [Botoien estiloa](#botoien-estiloa)
-
+--- 
 ## Sarrera
 
 Webgune honen bidez **hiru erabiltzaile profil nagusi** bereizten dira:
 
 - **Erabiltzailea (Bisitaria)**: antzokian antolatutako ekitaldiak kontsultatu eta sarrerak erosi ahal izango ditu, era **errazean eta azkar batean**.  
 - **Langilea**: antzokiko ekitaldiak **kudeatuko ditu**, eduki berriak gehitu eta informazioa eguneratuz.  
-- **Administratzailea**: sistemaren **kontrol osoa** izango du; langileak eta ekitaldi guztiak kudeatzeko ardura izango du, webgunearen funtzionamendu orokorra zainduz.  
+- **Administratzailea**: sistemaren **kontrol osoa** izango du; langileak eta ekitaldi guztiak kudeatzeko ardura izango du, webgunearen funtzionamendu orokorra zainduz.
+---  
 ## Beste webguneen analisia
 
 | Webgunea                         | Puntu onak                                                                 | Hobetzeko aukerak                                                               |
@@ -27,6 +29,12 @@ Webgune honen bidez **hiru erabiltzaile profil nagusi** bereizten dira:
 | **Kursaal.eus**                  | Estilo modernoa eta minimalista.                                           | Sarrerak erosteko bertan erosi, beste lehio batera eraman gabe.                  |
 | **Bergara.eus**                  | Koloreak ondo daude. Webgune txukuna da.                                   | Oso kargatuta.                                                                  |
 
+--- 
+
+## Nabigazio-mapa 
+<img width="10522" height="5148" alt="navigazioMapa" src="https://github.com/user-attachments/assets/571cf1f0-d2c3-4325-8c3a-285d48085c19" /> 
+
+---
 ## Bozetoa
 
 ### Main webPage
@@ -41,7 +49,7 @@ Webgune honen bidez **hiru erabiltzaile profil nagusi** bereizten dira:
 ###   paying form
 <img width="1920" height="1080" alt="_maltuna tech form1" src="https://github.com/user-attachments/assets/bff6870f-e1b3-4d4b-b7de-45b75626e54f" />
 
-
+--- 
 
 
 ## Estilo gida:
