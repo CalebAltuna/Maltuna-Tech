@@ -11,6 +11,8 @@
   - [Irudiak](#irudiak)
   - [Ikonoen estiloa](#ikonoen-estiloa)
   - [Botoien estiloa](#botoien-estiloa)
+- [Prototipoa](#prototipoa)
+
 --- 
 ## Sarrera
 
@@ -99,6 +101,11 @@ Izenburuetarako eta testu arrunterako **Open Sans** erabiliko da, irakurtzeko er
   <img width="272" height="112" alt="image" src="https://github.com/user-attachments/assets/25cab45d-28ad-4280-a6bc-b1e570f8254e" />
 
 
+--- 
 
+
+## Prototipoa:
+Egindako prototipoa Figma-n sortu dugu. <br>
+[Hemen ikusi dezakegu bozetoa](https://www.figma.com/design/iTLlv26gKOffbUumuRFIIN/Antzoki-Prototipo?node-id=0-1&t=yBjBTWXXZJI1lTwz-1)  
 
 
