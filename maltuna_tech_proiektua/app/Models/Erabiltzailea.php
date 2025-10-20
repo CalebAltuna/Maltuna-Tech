@@ -20,7 +20,7 @@ class Erabiltzailea extends Authenticatable
         //'id',
         'izena',
         'abizena',
-        'korreoa',
+        'email',
         'mota',
         'password',
         'id_sortzailea',
