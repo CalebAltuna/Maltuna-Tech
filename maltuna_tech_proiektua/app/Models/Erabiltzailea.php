@@ -22,7 +22,6 @@ class Erabiltzailea extends Authenticatable
      * @var list<string>
      */
     protected $fillable = [
-        //'id',
         'izena',
         'abizena',
         'email',
