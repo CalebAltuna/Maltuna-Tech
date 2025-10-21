@@ -15,7 +15,7 @@ return new class extends Migration
             // Primary Key
             $table->id('id_ekitaldia');
 
-            $table->string('izenburu');
+            $table->string('izenburua');
             $table->text('deskripzioa')->nullable();
             $table->integer('aforo');
             $table->integer('aforo_libre')->nullable();
