@@ -2,19 +2,15 @@
 namespace App\Models;
 // use Illuminate\Contracts\Auth\MustVerifyEmail;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
 use Laravel\Fortify\TwoFactorAuthenticatable;
 
-class Erabiltzailea extends Authenticatable
+class Sarrerak extends Model
 {
     /** @use HasFactory<\Database\Factories\UserFactory> */
     use HasFactory, Notifiable, TwoFactorAuthenticatable;
-
-    //ERAB MOTA
-    const MOTA_ADMIN = 'admin';
-    const MOTA_ARRUNTA = 'arrunta';
-    const MOTA_LANGILEA = 'langilea';
 
     /**
      * The attributes that are mass assignable.
@@ -23,12 +19,10 @@ class Erabiltzailea extends Authenticatable
      */
     protected $fillable = [
         //'id',
-        'izena',
-        'abizena',
-        'email',
-        'password',
-        'mota',
-        //'id_sortzailea',
+        'data_erosketa',
+        'kantitatea',
+        'id_erabiltzailea',
+        //'id_ekitaldia',
     ];
 
     /**
@@ -36,20 +30,10 @@ class Erabiltzailea extends Authenticatable
      *
      * @var list<string>
      */
-    protected $hidden = [
-        'password',
-    ];
 
     /**
      * Get the attributes that should be cast.
      *
      * @return array<string, string>
      */
-    protected function casts(): array
-    {
-        return [
-            'email_verified_at' => 'datetime',
-            'password' => 'hashed',
-        ];
-    }
 }

@@ -18,8 +18,8 @@ return new class extends Migration
             $table->string('izena');
             $table->string('abizena');
             $table->string('mota');
-            $table->string('korreoa');
-            $table->string('pasahitza');
+            $table->string('email');
+            $table->string('password');
 
             // FK admin
             $table->unsignedBigInteger('id_sortzailea')->nullable();
