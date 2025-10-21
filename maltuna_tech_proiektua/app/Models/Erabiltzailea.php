@@ -37,6 +37,7 @@ class Erabiltzailea extends Authenticatable
      */
     protected $hidden = [
         'password',
+        'remember_token',//egoteko pribatua
     ];
 
     /**

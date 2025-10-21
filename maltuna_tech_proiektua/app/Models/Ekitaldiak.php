@@ -12,6 +12,10 @@ class Ekitaldiak extends Model
     /** @use HasFactory<\Database\Factories\UserFactory> */
     use HasFactory, Notifiable, TwoFactorAuthenticatable;
 
+    //EGOERA MOTA
+    const EGOERA_AKTIBOA = 'aktiboa';
+    const EGOERA_ITXITA = 'itxita';
+
     /**
      * The attributes that are mass assignable.
      *
