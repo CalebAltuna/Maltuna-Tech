@@ -20,7 +20,7 @@ return new class extends Migration
             $table->text('deskripzioa')->nullable(); // supongo que Deskripzioa es texto
             $table->integer('aforo');
             $table->integer('aforo_libre')->nullable();
-            $table->string('egoera')->nullable();
+            $table->string('egoera');
 
             // Foreign Key
             $table->foreignId('id_sortzaile')->constrained('admin')->onDelete('cascade');
