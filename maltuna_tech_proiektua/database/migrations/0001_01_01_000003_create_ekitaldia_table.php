@@ -11,21 +11,20 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('ekitaldiak', function (Blueprint $table) {
+        Schema::create('ekitaldia', function (Blueprint $table) {
             // Primary Key
-            $table->id('id_ekitaldiak');
+            $table->id('id_ekitaldia');
 
-            // Columnas normales
             $table->string('izenburu');
-            $table->text('deskripzioa')->nullable(); // supongo que Deskripzioa es texto
+            $table->text('deskripzioa')->nullable();
             $table->integer('aforo');
             $table->integer('aforo_libre')->nullable();
             $table->string('egoera');
 
             // Foreign Key
-            $table->foreignId('id_sortzaile')->constrained('admin')->onDelete('cascade');
+            $table->foreignId('id_sortzaile')->constrained('erabiltzailea')->onDelete('cascade');
 
-            // Fechas y otros
+
             $table->date('data_erosketa')->nullable();
             $table->integer('prezio_sarrera')->nullable();
             $table->string('irudia')->nullable();
@@ -39,6 +38,6 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('ekitaldiak');
+        Schema::dropIfExists('ekitaldia');
     }
 };
