@@ -220,9 +220,9 @@ class ComposerStaticInitdb1a607ff3200db016bc62d7a8dd6399
         ),
         'phpDocumentor\\Reflection\\' => 
         array (
-            0 => __DIR__ . '/..' . '/phpdocumentor/reflection-docblock/src',
-            1 => __DIR__ . '/..' . '/phpdocumentor/type-resolver/src',
-            2 => __DIR__ . '/..' . '/phpdocumentor/reflection-common/src',
+            0 => __DIR__ . '/..' . '/phpdocumentor/reflection-common/src',
+            1 => __DIR__ . '/..' . '/phpdocumentor/reflection-docblock/src',
+            2 => __DIR__ . '/..' . '/phpdocumentor/type-resolver/src',
         ),
         'Whoops\\' => 
         array (
@@ -662,6 +662,9 @@ class ComposerStaticInitdb1a607ff3200db016bc62d7a8dd6399
         'App\\Http\\Requests\\Auth\\LoginRequest' => __DIR__ . '/../..' . '/app/Http/Requests/Auth/LoginRequest.php',
         'App\\Http\\Requests\\Settings\\ProfileUpdateRequest' => __DIR__ . '/../..' . '/app/Http/Requests/Settings/ProfileUpdateRequest.php',
         'App\\Http\\Requests\\Settings\\TwoFactorAuthenticationRequest' => __DIR__ . '/../..' . '/app/Http/Requests/Settings/TwoFactorAuthenticationRequest.php',
+        'App\\Models\\Ekitaldiak' => __DIR__ . '/../..' . '/app/Models/Ekitaldiak.php',
+        'App\\Models\\Erabiltzailea' => __DIR__ . '/../..' . '/app/Models/Erabiltzailea.php',
+        'App\\Models\\Sarrerak' => __DIR__ . '/../..' . '/app/Models/Sarrerak.php',
         'App\\Models\\User' => __DIR__ . '/../..' . '/app/Models/User.php',
         'App\\Providers\\AppServiceProvider' => __DIR__ . '/../..' . '/app/Providers/AppServiceProvider.php',
         'App\\Providers\\FortifyServiceProvider' => __DIR__ . '/../..' . '/app/Providers/FortifyServiceProvider.php',
@@ -7840,6 +7843,7 @@ class ComposerStaticInitdb1a607ff3200db016bc62d7a8dd6399
         'Whoops\\Util\\Misc' => __DIR__ . '/..' . '/filp/whoops/src/Whoops/Util/Misc.php',
         'Whoops\\Util\\SystemFacade' => __DIR__ . '/..' . '/filp/whoops/src/Whoops/Util/SystemFacade.php',
         'Whoops\\Util\\TemplateHelper' => __DIR__ . '/..' . '/filp/whoops/src/Whoops/Util/TemplateHelper.php',
+        'app\\Http\\Controllers\\UserController' => __DIR__ . '/../..' . '/app/Http/Controllers/UserController.php',
         'phpDocumentor\\Reflection\\DocBlock' => __DIR__ . '/..' . '/phpdocumentor/reflection-docblock/src/DocBlock.php',
         'phpDocumentor\\Reflection\\DocBlockFactory' => __DIR__ . '/..' . '/phpdocumentor/reflection-docblock/src/DocBlockFactory.php',
         'phpDocumentor\\Reflection\\DocBlockFactoryInterface' => __DIR__ . '/..' . '/phpdocumentor/reflection-docblock/src/DocBlockFactoryInterface.php',
