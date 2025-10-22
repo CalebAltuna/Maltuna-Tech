@@ -16,10 +16,9 @@ return new class extends Migration {
             //oinarrrizko atributuak
             $table->string('izena');
             $table->string('abizena');
-            $table->enum('mota', ['langilea', 'admin', 'arrunta'])->default('arrunta'); 
+            $table->enum('mota', ['langilea', 'admin', 'arrunta'])->default('arrunta');
             $table->string('email')->unique();
             $table->string('password');
-
             // FK admin (erlazioa bere buruarekin)
             $table->unsignedBigInteger('id_sortzailea')->nullable();
             $table->foreign('id_sortzailea')
